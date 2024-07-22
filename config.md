@@ -19,9 +19,9 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "PatrickAlexander"
 website_descr = "Physics, and math notes"
-
+website_url   = "https://patrickalexander1.github.io/"
 +++
-<!-- website_url   = "https://tlienart.github.io/FranklinTemplates.jl/" -->
+
 <!--
 Add here global latex commands to use throughout your pages.
 -->
