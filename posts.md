@@ -1,3 +1,3 @@
 # Posts
 
-* [Classical Mechanics Notes](./Posts/classical-mechanics)
+* [Classical Mechanics Notes](../Posts/classical-mechanics)

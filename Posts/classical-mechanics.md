@@ -137,7 +137,7 @@ $$
 
 ### Checking Dimensions
 
-Verification of dimensions is a good way to check for errors. The argument of the sine are cosine functions are radians which are dimensionless, which means $\sqrt{\frac{g}{l}}$ needs to have dimensions of $T^{-1}$.
+Verification of dimensions is a good way to check for errors. The arguments of the sine and cosine functions are radians a dimensionless quantity, which means $\sqrt{\frac{g}{l}}$ needs to have dimensions of $T^{-1}$.
 
 $$
 \bigg[\sqrt{\frac{g}{l}} \bigg] = [L^{1} T^{-2} L^{-1}]^{1/2} = T^{-1}
