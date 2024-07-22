@@ -1,4 +1,4 @@
-Sitemap: sitemap.xml
+Sitemap: https://patrickalexander1.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
