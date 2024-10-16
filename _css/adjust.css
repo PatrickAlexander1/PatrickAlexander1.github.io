@@ -7,11 +7,6 @@ body { counter-reset: eqnum sidenote-counter;}
   background-color: #fffff8;
 }
 
-#title {
-  font-size: xx-large;
-  font-family: palatino;
-  padding-top: 2em;
-}
 
 .franklin-content code {
   font-size: var(--small);

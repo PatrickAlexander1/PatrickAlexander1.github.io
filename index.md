@@ -3,7 +3,7 @@
 
 
 ~~~
-<div id="title" >PATRICK WELLINS</div>
+<div id="title" style="font-size: xx-large; padding-top: 2em;">PATRICK WELLINS</div>
 ~~~
 
 
