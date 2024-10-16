@@ -7,6 +7,11 @@ body { counter-reset: eqnum sidenote-counter;}
   background-color: #fffff8;
 }
 
+#title {
+  font-size: xx-large;
+  font-family: palatino;
+  padding-top: 2em;
+}
 
 .franklin-content code {
   font-size: var(--small);
@@ -63,6 +68,11 @@ body { counter-reset: eqnum sidenote-counter;}
 
 .franklin-content { padding-left: 10%; }
 .franklin-content { padding-right: 5%; }
+
+.hljs {
+  background: #333;
+  color: #fff;
+}
 
 @media (max-width: 940px) {
   /* narrow display: menu is at the top */

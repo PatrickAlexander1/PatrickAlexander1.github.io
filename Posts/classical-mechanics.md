@@ -116,6 +116,9 @@ If $\omega = \sqrt{g/l}$, then equation (7) can be written as
 $$
 \ddot{\theta} = - \omega^2 \theta.
 $$
+
+### Qualitative Analysis
+The differential equation (6) expresses that the acceleration of the point mass is proportional to the sine of the angle between the string and the vertical line. In a sense the mass is getting a stronger "push" as $\sin{\theta}$ increases. When $\theta = \pi/4$, $\sin{\theta}$ is at its maximum. At this angle the force due to gravity is completely lined up or parallel with the $\hat{\theta}$ direction. When $\theta = 0$, there is no force applied to the mass in the $\hat{theta}$ direction, all the force that was applied to the mass prior to this point accumulated into kinetic energy.
 ### Solving the Differential Equation
 \begin{align}
 \frac{d^2}{ dt^2} \cos{\omega t} &= - \omega^2 \cos{\omega t} \\\\

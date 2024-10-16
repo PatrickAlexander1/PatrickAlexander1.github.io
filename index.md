@@ -2,10 +2,21 @@
 @def tags = ["syntax", "code"]
 
 
-# Patrick Wellins
+~~~
+<div id="title" >PATRICK WELLINS</div>
+~~~
 
 
-This site contains my writings on subjects that I have interest in, mostly physics, mathematics, and computer science.
+Writings on subjects that I have interest in, mostly physics, mathematics, and computer science.
 
-## Classical Mechanics Notes
-* [The Simple Pendulum](./Posts/classical-mechanics)
+##
+~~~
+<a href="../Posts/classical-mechanics">
+<div style="font-weight: bold; font-size: 1.2em">Pendulum System</div>
+</a>
+<!-- <div style="font-weight: bold; font-size: 0.9em">AUGUST 2024</div> -->
+An explanation of solving the equation of motion for the pendulum system. Understand the system by solvings with Newton's laws and the Lagrangian method.
+~~~
+
+
+
