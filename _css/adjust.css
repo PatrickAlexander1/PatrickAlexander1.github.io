@@ -7,6 +7,27 @@ body { counter-reset: eqnum sidenote-counter;}
   background-color: #fffff8;
 }
 
+#title {
+  font-family: "Inter", sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: "Inter", sans-serif;
+  font-weight: 600;
+}
+
+h2, h3 {
+  font-style: normal;
+  font-family: "Inter", sans-serif;
+}
+
+.article-title {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  padding-bottom: 5px;
+  font-size: 1.2em;
+}
 
 .franklin-content code {
   font-size: var(--small);
@@ -21,6 +42,7 @@ body { counter-reset: eqnum sidenote-counter;}
 }
 
 #menu ul {
+  
   text-align: center;
   margin: 0;
   padding: 0;
