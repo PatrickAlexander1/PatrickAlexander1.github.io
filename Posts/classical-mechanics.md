@@ -25,10 +25,10 @@ Circular Path & Polar Coordinates
 If an object has circular motion with a constaint radius, the object will always move in the direction of $\hat{\theta}$, which is tangential to the circumference of the circle.
 @@
 @@
-
+##
 ### Coordinate System
 The path of the point mass is a circular arc with an invariant radius in a two dimensional plane. If the state of the system is represented by polar coordinates $(r, \theta)$ there is no calculation needed for $r$, it will always be $l$ the length of the string. With polar coordinates only one dynamical variable $\theta$ is needed to describe the state of the system. Where $\theta$ is the angle between the string and a vertical line parallel to the direction of gravitational acceleration.
-
+##
 ### Graphical Representations of a Point in a Plane
 @@row-objects
 @@row-object
@@ -56,7 +56,7 @@ The force $mg \sin{\theta}$ is parallel to $\hat{\theta}$, the direction of moti
 @@
 @@
 
-
+##
 ### Writing expressions for $F$ and $ma$
 The velocity and acceleration of the point mass are purely in the $\hat{\theta}$ direction which is tangent to the circular arc. During a small time interval $\Delta t$ the point mass travels a distance $l \Delta \theta$.
 
@@ -85,7 +85,6 @@ In the free body diagram the total force in the $\hat{\theta}$ direction is $-mg
 
 Forces in the $\hat{r}$ direction sum to zero, so the magnitude of the tension in the string is $mg\cos{\theta}$. However, this information is not needed for the equation of motion. 
 
-##
 $$
 m l \ddot{\theta} = -m g \sin{\theta}
 $$
@@ -116,9 +115,10 @@ If $\omega = \sqrt{g/l}$, then equation (7) can be written as
 $$
 \ddot{\theta} = - \omega^2 \theta.
 $$
-
+##
 ### Qualitative Analysis
 The differential equation (6) expresses that the acceleration of the point mass is proportional to the sine of the angle between the string and the vertical line. In a sense the mass is getting a stronger "push" as $\sin{\theta}$ increases. When $\theta = \pi/4$, $\sin{\theta}$ is at its maximum. At this angle the force due to gravity is completely lined up or parallel with the $\hat{\theta}$ direction. When $\theta = 0$, there is no force applied to the mass in the $\hat{theta}$ direction, all the force that was applied to the mass prior to this point accumulated into kinetic energy.
+##
 ### Solving the Differential Equation
 \begin{align}
 \frac{d^2}{ dt^2} \cos{\omega t} &= - \omega^2 \cos{\omega t} \\\\
@@ -137,7 +137,7 @@ $$
 $$
 
 
-
+##
 ### Checking Dimensions
 
 Verification of dimensions is a good way to check for errors. The arguments of the sine and cosine functions are radians a dimensionless quantity, which means $\sqrt{\frac{g}{l}}$ needs to have dimensions of $T^{-1}$.
@@ -145,7 +145,7 @@ Verification of dimensions is a good way to check for errors. The arguments of t
 $$
 \bigg[\sqrt{\frac{g}{l}} \bigg] = [L^{1} T^{-2} L^{-1}]^{1/2} = T^{-1}
 $$
-
+##
 ### Lagrangian Method
 Motion of the simple pendulum can also be derived using the Lagrangian method.
 Once the Langrangian formula (13) is found, the Euler-Lagrange equation (14) can be written and solved. The solution of (14) will be equivalent to (10).
